@@ -1,0 +1,101 @@
+@media (max-width: 575.98px) { 
+    #top_heading {
+        max-width: 100%;
+        height: 35px;
+        margin-left: 0px;
+    }
+    .left-heading h4 {
+        font-size: 14px;
+    }
+    .right-heading {
+        margin-top: -26px;
+        /* justify-content: right; */
+        float: right;
+    }
+    .right-heading h5 {
+        font-size: 12px;
+        padding-right: 10px;
+        padding-top: 3px;
+    }
+    .right-heading p {
+        margin-top: 0px;
+        font-size: 12px;
+    }
+    #logo-icon {
+        margin: 0px 5px;
+        padding: 2px;
+    }
+    .gov-search {
+        margin-top: 12px;
+        display: flex;
+    }
+    .prime {
+        width: 70%;
+        height: 35px;
+        margin: 5px 10px 0px;
+    }
+    .gov-social {
+        display: flex;
+        gap: 15px;
+        margin-top: 5px;
+        align-items: center;
+        justify-content: center;
+    }
+    #gov_nav {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .gov_navbar {
+        background-color: #ffffff;
+    }
+    .navbar-toggler {
+       background-color: #ffffff;
+       border:1px solid black;
+    }
+    #gov-tabs {
+        max-width: 100%;
+        margin: 0 auto;
+        margin-top: 0px;
+    }
+    .Tabs {
+        flex-wrap: wrap;
+        display: flex;
+        column-gap: 1.25rem;
+        width: min(100%, max(30rem, 30%));
+        margin-inline: auto;
+        margin-block: 2rem;
+        margin-left: 0%;
+    }
+    .Content {
+        background: #ffffff;
+        width: 100%;
+        border: 1px solid rgba(121, 117, 117, 0.354);
+        padding: 0.5rem;
+        /* display: flex; */
+        text-align: -webkit-center;
+    }
+}
+
+
+@media (max-width: 767.98px) { }
+
+@media (max-width: 991.98px) { }
+
+
+@media (max-width: 1199.98px) {  }
+
+@media (max-width: 1399.98px) { }
+
+@media (min-width: 576px) {  }
+
+
+@media (min-width: 768px) { }
+
+
+@media (min-width: 992px) { }
+
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1400px) {}
